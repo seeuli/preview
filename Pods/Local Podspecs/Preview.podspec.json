@@ -1,0 +1,32 @@
+{
+  "name": "Preview",
+  "version": "0.1.0",
+  "summary": "A short description of qcs.r.ios.workbench.",
+  "description": "debug",
+  "homepage": "https://github.com/seeuli/preview",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "seeuli": "l1649675100@163.com"
+  },
+  "source": {
+    "git": "git@github.com:seeuli/preview.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "frameworks": [
+    "UIKit",
+    "AVFoundation"
+  ],
+  "source_files": "Preview/**/*.swift",
+  "resources": "Preview/**/*.xcassets",
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  }
+}

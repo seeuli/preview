@@ -1,0 +1,30 @@
+PODS:
+  - Preview (0.1.0):
+    - SnapKit
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - Preview (from `.`)
+  - SDWebImage
+  - SnapKit (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+    - SnapKit
+
+EXTERNAL SOURCES:
+  Preview:
+    :path: "."
+
+SPEC CHECKSUMS:
+  Preview: 1a56285d866cbc8f3d4a9ec6764f318896632432
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: 8bfb8ae2740e4f6e2bd9d749e93e56fd095dae49
+
+COCOAPODS: 1.9.3
